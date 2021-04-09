@@ -8,3 +8,8 @@
 
 - Scikit Image:  
   https://scikit-image.org/
+
+- Histogram Stretching:
+  https://www.tutorialspoint.com/dip/histogram_stretching.htm
+  https://www.geeksforgeeks.org/histogram-plotting-and-stretching-in-python-without-using-inbuilt-function/
+  https://youtu.be/pb5qEoEGy6E
