@@ -16,3 +16,8 @@
 
 - Histogram Equalization:  
   https://github.com/torywalker/histogram-equalizer/blob/master/HistogramEqualization.ipynb
+
+- REFS:
+  https://github.com/Zainulabaidin5566/Digital-Image-Processing
+  https://learnopencv.com/otsu-thresholding-with-opencv/
+
