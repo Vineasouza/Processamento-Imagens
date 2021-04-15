@@ -23,5 +23,4 @@
 
 - Algoritmos de limiarização Ridler e Calvard
 - Algoritmos de limiarização Otsu
-
-#### **Observação:** Para ambas as técnicas forneça possibilidades de aplicação de diferentes políticas delimiarização (Binária, Trucada, Zero).
+**Observação:** Para ambas as técnicas forneça possibilidades de aplicação de diferentes políticas delimiarização (Binária, Trucada, Zero).
