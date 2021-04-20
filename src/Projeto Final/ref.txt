@@ -1,0 +1,7 @@
+https://towardsdatascience.com/helping-treat-cervical-cancer-with-neural-networks-d41c964327f1
+
+https://assets.researchsquare.com/files/rs-257282/v1_stamped.pdf
+
+https://github.com/cantonioupao/cervical_cancer_detection/blob/master/DatasetDivision.py
+
+https://github.com/whhsu2/Pap-Smear-Image-Classification/blob/master/split.py
