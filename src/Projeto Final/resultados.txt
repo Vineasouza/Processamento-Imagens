@@ -1,0 +1,21 @@
+*** Global Average***
+
+---**---
+
+100epochs_32batch_0.2dropout_0.001learningrate_128x128 - Train: 0.997, Test: 0.562
+100epochs_32batch_0.2dropout_0.0001learningrate_128x128 - Train: 1.000, Test: 0.587
+
+---**---
+
+100epochs_16batch_0.2dropout_0.001learningrate_128x128 - Train: 0.988, Test: 0.540
+100epochs_16batch_0.2dropout_0.0001learningrate_128x128 - Train: 1.000, Test: 0.574
+
+---**---
+
+100epochs_32batch_0.1dropout_0.001learningrate_128x128 - Train: 0.990, Test: 0.500
+100epochs_32batch_0.1dropout_0.0001learningrate_128x128 - Train: 1.000, Test: 0.575
+
+---**---
+
+100epochs_16batch_0.1dropout_0.001learningrate_128x128 - Train: 0.999, Test: 0.568
+100epochs_16batch_0.1dropout_0.0001learningrate_128x128 - Train: 1.000, Test: 0.591

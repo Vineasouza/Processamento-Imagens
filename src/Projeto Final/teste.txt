@@ -1,0 +1,11 @@
+https://keras.io/api/callbacks/early_stopping/
+
+regularização
+
+aumentar as epochs
+
+diminuir dropout
+
+manter o adam
+
+mudar para as imagens em escala de cinza
