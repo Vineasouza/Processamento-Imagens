@@ -20,4 +20,6 @@
 - REFS:
   https://github.com/Zainulabaidin5566/Digital-Image-Processing
   https://learnopencv.com/otsu-thresholding-with-opencv/
+  https://github.com/CellProfiler/centrosome/blob/fdc2aea28811285e01a14f83464b978879f1f5f4/centrosome/threshold.py#L619
+  https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF3300/h06/undervisningsmateriale/thresholding_2006-6pp.pdf
 
